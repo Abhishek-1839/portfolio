@@ -263,9 +263,11 @@ flex-direction: column;
   }
   .project-bio h3 {
 font-size: 1rem;
+color: #000000;
   }
   .project-bio p {
 font-size: 0.9 rem;
+color: #000000;
   }
   .project-link{
     display: flex;
