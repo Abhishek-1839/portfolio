@@ -99,7 +99,7 @@ body {
   background: var(--bg-primary);
 }
 .logo{
-  margin-left: 5px;
+  margin-left: 10px;
 }
 
 .navbar .container {
