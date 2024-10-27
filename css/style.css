@@ -99,7 +99,7 @@ body {
   background: var(--bg-primary);
 }
 .logo{
-  margin-left: 0px;
+  margin-left: 5px;
 }
 
 .navbar .container {
@@ -259,7 +259,7 @@ flex-direction: column;
     padding: 1rem;
   }
   .project-info :hover{
-    opacity: 1;
+    opacity: 3;
   }
   .project-bio h3 {
 font-size: 1rem;
