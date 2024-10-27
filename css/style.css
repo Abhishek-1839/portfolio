@@ -462,6 +462,7 @@ flex-direction: column;
     display: block;
     cursor: pointer;
     padding: 0.2rem 0.4rem;
+    margin-right: 15px;
   }
 
   .hamburger.active {
